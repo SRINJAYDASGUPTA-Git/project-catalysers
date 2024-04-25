@@ -206,16 +206,14 @@ export default function Home() {
                   <div className="w-[2.5] flex gap-4 items-center">
                     <div>
                       <p className="text-4xl font-bold text-white pb-4 font-['Krona One'] tracking-[.2rem]">
-                        PROJECT
-                        <br />
-                        CATALYZERS
+                        KICKSTART
                       </p>
                       <p className="text-xs ps-2">
                         Welcome to
                         <br />
-                        Project Catalyzer,where we
+                        KICKSTART,where we
                         <br />
-                        nurture Innovation through collaborative learning.
+                        connect, Create, Conquer.
                       </p>
                     </div>
                     <Image
@@ -229,7 +227,7 @@ export default function Home() {
                 </div>
                 <div className="p-10 flex justify-between ">
                   <p className="text-2xl">Look In to Library</p>
-                  <div className="bg-[#9f74ac] w-1/4 rounded-xl h-fit p-2 flex items-center">
+                  <div className="bg-[#9f74ac] w-[50%] rounded-xl h-fit p-2 flex items-center">
                     <AiOutlineFileSearch size={20} />
                     <input
                       type="text"
@@ -273,9 +271,9 @@ export default function Home() {
                     <p className="text-xs ps-2">
                       Welcome to
                       <br />
-                      Project Catalyzer,where we
+                      KICKSTART,where we
                       <br />
-                      nurture Innovation through collaborative learning.
+                      connect, Create, Conquer.
                     </p>
                   </div>
                   <Image
@@ -289,7 +287,7 @@ export default function Home() {
               </div>
               <div className="p-10 flex justify-between ">
                 <p className="text-2xl">Look In to Library</p>
-                <div className="bg-[#9f74ac] w-1/4 rounded-xl h-fit p-2 flex items-center">
+                <div className="bg-[#9f74ac] w-[35%] rounded-xl h-fit p-2 flex items-center">
                   <AiOutlineFileSearch size={20} />
                   <input
                     type="search"
@@ -384,16 +382,14 @@ export default function Home() {
                 <div className="w-[2.5] flex gap-4 items-center">
                   <div>
                     <p className="text-xl font-bold text-white pb-4 font-['Krona One'] tracking-[.2rem]">
-                      PROJECT
-                      <br />
-                      CATALYZERS
+                      KICKSTART
                     </p>
                     <p className="text-[10px]">
                       Welcome to
                       <br />
-                      Project Catalyzer,where we
+                      Kickstart,where we
                       <br />
-                      nurture Innovation through collaborative learning.
+                      connect, create, conquer.
                     </p>
                   </div>
                   <Image
@@ -472,7 +468,7 @@ export default function Home() {
             }
           </div>
         </div>
-        <BottomBar dpUrl={dpUrl}/>
+        <BottomBar dpUrl={dpUrl} />
       </main>
     ))
   );
