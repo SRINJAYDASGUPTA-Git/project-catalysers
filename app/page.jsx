@@ -206,14 +206,14 @@ export default function Home() {
                   <div className="w-[2.5] flex gap-4 items-center">
                     <div>
                       <p className="text-4xl font-bold text-white pb-4 font-['Krona One'] tracking-[.2rem]">
-                        KICKSTART
+                        PROJECT CATALYSER
                       </p>
                       <p className="text-xs ps-2">
                         Welcome to
                         <br />
-                        KICKSTART,where we
+                        Project Catalyser,where we
                         <br />
-                        connect, Create, Conquer.
+                        Connect, Create, Conquer.
                       </p>
                     </div>
                     <Image
@@ -271,9 +271,9 @@ export default function Home() {
                     <p className="text-xs ps-2">
                       Welcome to
                       <br />
-                      KICKSTART,where we
+                      Project Catalyser,where we
                       <br />
-                      connect, Create, Conquer.
+                      Connect, Create, Conquer.
                     </p>
                   </div>
                   <Image
@@ -382,14 +382,14 @@ export default function Home() {
                 <div className="w-[2.5] flex gap-4 items-center">
                   <div>
                     <p className="text-xl font-bold text-white pb-4 font-['Krona One'] tracking-[.2rem]">
-                      KICKSTART
+                      PROJECT CATALYSER
                     </p>
                     <p className="text-[10px]">
                       Welcome to
                       <br />
-                      Kickstart,where we
+                      Project Ctalyser,where we
                       <br />
-                      connect, create, conquer.
+                      Connect, create, conquer.
                     </p>
                   </div>
                   <Image
